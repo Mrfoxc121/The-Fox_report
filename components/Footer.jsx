@@ -11,16 +11,16 @@ const Footer = () => {
     <div className="text-center my-10">
       <div className="flex justify-center gap-x-5 mb-4">
         <Link href="https://www.facebook.com">
-          <FontAwesomeIcon className="text-4xl text-slate-900 cursor-pointer"icon={faFacebookSquare} />
+          <FontAwesomeIcon className="text-4xl text-stone-900 cursor-pointer"icon={faFacebookSquare} />
         </Link>
         <Link href="https://twitter.com">
-          <FontAwesomeIcon className="text-4xl text-slate-900 cursor-pointer" icon={faTwitterSquare} />
+          <FontAwesomeIcon className="text-4xl text-stone-900 cursor-pointer" icon={faTwitterSquare} />
         </Link>  
         <Link href="https://instagram.com">
-          <FontAwesomeIcon className="text-4xl text-slate-900 cursor-pointer" icon={faInstagramSquare} />
+          <FontAwesomeIcon className="text-4xl text-stone-900 cursor-pointer" icon={faInstagramSquare} />
         </Link>
         <Link href="https://pinterest.com">
-          <FontAwesomeIcon className="text-4xl text-slate-900 cursor-pointer" icon={faPinterestSquare} />
+          <FontAwesomeIcon className="text-4xl text-stone-900 cursor-pointer" icon={faPinterestSquare} />
         </Link>
       </div>
        

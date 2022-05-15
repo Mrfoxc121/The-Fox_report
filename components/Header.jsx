@@ -14,10 +14,10 @@ const Header = () => {
 
   return (
     <div className="container mx-auto px-10 mb-8">
-      <div className="border-b w-full inline-block border-indigo-400 py-8">
+      <div className="border-b w-full inline-block border-slate-400 py-8">
         <div className="md:float-left block">
         <Link href="/">
-            <span  className="cursor-pointer font-bold text-4xl text-slate-900">The Fox Report</span>
+            <span className="cursor-pointer font-bold text-5xl text-slate-900 logoTitle"><span className='text-sky-500'>Coastal</span> Culture</span>
           </Link>
         </div>
         <div className="hidden md:float-left md:contents">
