@@ -26,7 +26,7 @@ const Footer = () => {
        
   
         <div>
-            <span className="text-xl mb-3">The Fox Report - copyright 2022</span>
+            <span className="text-xl mb-3 "><span className='text-sky-600 text-2xl logoTitle'>Coastal</span> <span className='text-2xl logoTitle' >Culture </span> - copyright 2022</span>
         </div>
     </div>
   );
